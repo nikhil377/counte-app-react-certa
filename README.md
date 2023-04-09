@@ -1,2 +1,2 @@
-# counte-app-react-certa
+# counter-app-react-certa
 Created with CodeSandbox
